@@ -11,7 +11,7 @@ import SwiftUI
 struct QRCodeGeneratorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QRGenerator()
         }
     }
 }
